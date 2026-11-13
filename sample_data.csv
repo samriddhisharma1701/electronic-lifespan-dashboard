@@ -1,0 +1,145 @@
+component,failure_time_hours,unit_id,data_type
+LED Bulb,11901.4,LE-001,Simulated demonstration data
+LED Bulb,7317.6,LE-002,Simulated demonstration data
+LED Bulb,12945.3,LE-003,Simulated demonstration data
+LED Bulb,20636.7,LE-004,Simulated demonstration data
+LED Bulb,19622.1,LE-005,Simulated demonstration data
+LED Bulb,15678.9,LE-006,Simulated demonstration data
+LED Bulb,21452.0,LE-007,Simulated demonstration data
+LED Bulb,9517.1,LE-008,Simulated demonstration data
+LED Bulb,18502.4,LE-009,Simulated demonstration data
+LED Bulb,27769.6,LE-010,Simulated demonstration data
+LED Bulb,22941.2,LE-011,Simulated demonstration data
+LED Bulb,16970.0,LE-012,Simulated demonstration data
+LED Bulb,23426.2,LE-013,Simulated demonstration data
+LED Bulb,6547.9,LE-014,Simulated demonstration data
+LED Bulb,19522.2,LE-015,Simulated demonstration data
+LED Bulb,24767.9,LE-016,Simulated demonstration data
+LED Bulb,6816.3,LE-017,Simulated demonstration data
+LED Bulb,16060.6,LE-018,Simulated demonstration data
+LED Bulb,7639.8,LE-019,Simulated demonstration data
+LED Bulb,10038.9,LE-020,Simulated demonstration data
+LED Bulb,26249.5,LE-021,Simulated demonstration data
+LED Bulb,15476.9,LE-022,Simulated demonstration data
+LED Bulb,5546.9,LE-023,Simulated demonstration data
+LED Bulb,8445.9,LE-024,Simulated demonstration data
+LED Bulb,19521.7,LE-025,Simulated demonstration data
+LED Bulb,16464.0,LE-026,Simulated demonstration data
+LED Bulb,10757.9,LE-027,Simulated demonstration data
+LED Bulb,19789.4,LE-028,Simulated demonstration data
+LED Bulb,19244.5,LE-029,Simulated demonstration data
+LED Bulb,19672.1,LE-030,Simulated demonstration data
+LED Bulb,19747.4,LE-031,Simulated demonstration data
+LED Bulb,16508.3,LE-032,Simulated demonstration data
+LED Bulb,28558.7,LE-033,Simulated demonstration data
+LED Bulb,17278.3,LE-034,Simulated demonstration data
+LED Bulb,16467.1,LE-035,Simulated demonstration data
+LED Bulb,12627.9,LE-036,Simulated demonstration data
+Capacitor,7642.1,CA-001,Simulated demonstration data
+Capacitor,6635.1,CA-002,Simulated demonstration data
+Capacitor,7076.4,CA-003,Simulated demonstration data
+Capacitor,10148.4,CA-004,Simulated demonstration data
+Capacitor,9647.3,CA-005,Simulated demonstration data
+Capacitor,3332.7,CA-006,Simulated demonstration data
+Capacitor,9677.7,CA-007,Simulated demonstration data
+Capacitor,21392.9,CA-008,Simulated demonstration data
+Capacitor,12552.5,CA-009,Simulated demonstration data
+Capacitor,13514.0,CA-010,Simulated demonstration data
+Capacitor,20727.6,CA-011,Simulated demonstration data
+Capacitor,6883.1,CA-012,Simulated demonstration data
+Capacitor,8233.3,CA-013,Simulated demonstration data
+Capacitor,3026.3,CA-014,Simulated demonstration data
+Capacitor,5464.7,CA-015,Simulated demonstration data
+Capacitor,6737.5,CA-016,Simulated demonstration data
+Capacitor,24170.1,CA-017,Simulated demonstration data
+Capacitor,1908.0,CA-018,Simulated demonstration data
+Capacitor,19327.7,CA-019,Simulated demonstration data
+Capacitor,5001.4,CA-020,Simulated demonstration data
+Capacitor,8839.7,CA-021,Simulated demonstration data
+Capacitor,13706.5,CA-022,Simulated demonstration data
+Capacitor,12717.4,CA-023,Simulated demonstration data
+Capacitor,16705.8,CA-024,Simulated demonstration data
+Capacitor,7650.0,CA-025,Simulated demonstration data
+Capacitor,17599.8,CA-026,Simulated demonstration data
+Capacitor,18187.2,CA-027,Simulated demonstration data
+Capacitor,17138.1,CA-028,Simulated demonstration data
+Capacitor,4179.9,CA-029,Simulated demonstration data
+Capacitor,13776.8,CA-030,Simulated demonstration data
+Capacitor,3110.0,CA-031,Simulated demonstration data
+Capacitor,9519.8,CA-032,Simulated demonstration data
+Capacitor,5324.2,CA-033,Simulated demonstration data
+Capacitor,15823.1,CA-034,Simulated demonstration data
+Capacitor,8387.2,CA-035,Simulated demonstration data
+Capacitor,2753.3,CA-036,Simulated demonstration data
+Resistor,17791.6,RE-001,Simulated demonstration data
+Resistor,31788.7,RE-002,Simulated demonstration data
+Resistor,23976.8,RE-003,Simulated demonstration data
+Resistor,49304.0,RE-004,Simulated demonstration data
+Resistor,39745.0,RE-005,Simulated demonstration data
+Resistor,32768.2,RE-006,Simulated demonstration data
+Resistor,31773.2,RE-007,Simulated demonstration data
+Resistor,28010.6,RE-008,Simulated demonstration data
+Resistor,25911.5,RE-009,Simulated demonstration data
+Resistor,26007.4,RE-010,Simulated demonstration data
+Resistor,12823.9,RE-011,Simulated demonstration data
+Resistor,24495.1,RE-012,Simulated demonstration data
+Resistor,39158.7,RE-013,Simulated demonstration data
+Resistor,46771.9,RE-014,Simulated demonstration data
+Resistor,34685.3,RE-015,Simulated demonstration data
+Resistor,24027.5,RE-016,Simulated demonstration data
+Resistor,16350.9,RE-017,Simulated demonstration data
+Resistor,31971.7,RE-018,Simulated demonstration data
+Resistor,20291.6,RE-019,Simulated demonstration data
+Resistor,40381.7,RE-020,Simulated demonstration data
+Resistor,28557.6,RE-021,Simulated demonstration data
+Resistor,35120.6,RE-022,Simulated demonstration data
+Resistor,39503.4,RE-023,Simulated demonstration data
+Resistor,28541.9,RE-024,Simulated demonstration data
+Resistor,23774.9,RE-025,Simulated demonstration data
+Resistor,32049.8,RE-026,Simulated demonstration data
+Resistor,14969.2,RE-027,Simulated demonstration data
+Resistor,30165.7,RE-028,Simulated demonstration data
+Resistor,50044.2,RE-029,Simulated demonstration data
+Resistor,30577.5,RE-030,Simulated demonstration data
+Resistor,24552.8,RE-031,Simulated demonstration data
+Resistor,24008.5,RE-032,Simulated demonstration data
+Resistor,22824.0,RE-033,Simulated demonstration data
+Resistor,26573.2,RE-034,Simulated demonstration data
+Resistor,27263.4,RE-035,Simulated demonstration data
+Resistor,32355.8,RE-036,Simulated demonstration data
+Cooling Fan,14879.3,CO-001,Simulated demonstration data
+Cooling Fan,7741.7,CO-002,Simulated demonstration data
+Cooling Fan,12175.9,CO-003,Simulated demonstration data
+Cooling Fan,5790.7,CO-004,Simulated demonstration data
+Cooling Fan,8921.8,CO-005,Simulated demonstration data
+Cooling Fan,8397.2,CO-006,Simulated demonstration data
+Cooling Fan,16036.7,CO-007,Simulated demonstration data
+Cooling Fan,13309.5,CO-008,Simulated demonstration data
+Cooling Fan,8501.7,CO-009,Simulated demonstration data
+Cooling Fan,14405.9,CO-010,Simulated demonstration data
+Cooling Fan,16395.6,CO-011,Simulated demonstration data
+Cooling Fan,6218.4,CO-012,Simulated demonstration data
+Cooling Fan,8868.2,CO-013,Simulated demonstration data
+Cooling Fan,19565.5,CO-014,Simulated demonstration data
+Cooling Fan,13685.2,CO-015,Simulated demonstration data
+Cooling Fan,21458.6,CO-016,Simulated demonstration data
+Cooling Fan,9281.5,CO-017,Simulated demonstration data
+Cooling Fan,17433.2,CO-018,Simulated demonstration data
+Cooling Fan,13825.0,CO-019,Simulated demonstration data
+Cooling Fan,19065.6,CO-020,Simulated demonstration data
+Cooling Fan,3662.8,CO-021,Simulated demonstration data
+Cooling Fan,28639.4,CO-022,Simulated demonstration data
+Cooling Fan,17122.8,CO-023,Simulated demonstration data
+Cooling Fan,3680.6,CO-024,Simulated demonstration data
+Cooling Fan,5270.5,CO-025,Simulated demonstration data
+Cooling Fan,15103.6,CO-026,Simulated demonstration data
+Cooling Fan,15869.5,CO-027,Simulated demonstration data
+Cooling Fan,11020.3,CO-028,Simulated demonstration data
+Cooling Fan,5069.0,CO-029,Simulated demonstration data
+Cooling Fan,13682.1,CO-030,Simulated demonstration data
+Cooling Fan,18896.4,CO-031,Simulated demonstration data
+Cooling Fan,15025.7,CO-032,Simulated demonstration data
+Cooling Fan,14379.7,CO-033,Simulated demonstration data
+Cooling Fan,8760.9,CO-034,Simulated demonstration data
+Cooling Fan,17674.5,CO-035,Simulated demonstration data
+Cooling Fan,7862.6,CO-036,Simulated demonstration data
